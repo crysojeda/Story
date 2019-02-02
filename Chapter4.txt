@@ -1,0 +1,1 @@
+Undestanding the way Git works localy and Cloud based
